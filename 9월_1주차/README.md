@@ -10,6 +10,6 @@
 
 ## 9월 1일(수)
 
-[[SWEA 1247 보급로]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD)
+[[SWEA 1249 보급로]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD)
 
-[[SWEA 1247 하나로]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD)
+[[SWEA 1251 하나로]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD)

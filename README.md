@@ -18,3 +18,8 @@
 
 [[SWEA 1251 하나로]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD)   
    
+## 9월 2일(목)
+
+[[SWEA 1221 GNS]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14jJh6ACYCFAYD)
+
+[[SWEA 1257 K번째 문자열]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18KWf6ItECFAZN)

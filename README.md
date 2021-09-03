@@ -22,5 +22,8 @@
 |9월 2일(수)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD" target="_blank">SWEA 1251</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD" target="_blank">하나로</a>|    
 |9월 2일(목)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14jJh6ACYCFAYD" target="_blank">SWEA 1221</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14jJh6ACYCFAYD" target="_blank">GNS</a>|
 |9월 2일(목)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18KWf6ItECFAZN" target="_blank">SWEA 1257</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18KWf6ItECFAZN" target="_blank">K번째 문자열</a>|
+|9월 3일(금)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18LoAqItcCFAZN" target="_blank">SWEA 1258</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18LoAqItcCFAZN" target="_blank">행렬찾기</a>|
+|9월 3일(금)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18NaZqIt8CFAZN" target="_blank">SWEA 1259</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18NaZqIt8CFAZN" target="_blank">금속막대</a>|
+|9월 3일(금)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18OR16IuUCFAZN" target="_blank">SWEA 1260</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18OR16IuUCFAZN" target="_blank">화학물질2</a>|
 
 </details>

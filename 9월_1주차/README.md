@@ -19,4 +19,12 @@
 
 [[SWEA 1221 GNS]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14jJh6ACYCFAYD)
 
-[[SWEA 1257 K번째 문자열]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18KWf6ItECFAZN)
+[[SWEA 1257 K번째 문자열]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18KWf6ItECFAZN)   
+
+## 9월 3일(금)
+
+[[SWEA 1259 행렬찾기]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18LoAqItcCFAZN)   
+
+[[SWEA 1258 금속막대]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18NaZqIt8CFAZN)   
+
+[[SWEA 1260 화학물질2]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18OR16IuUCFAZN)

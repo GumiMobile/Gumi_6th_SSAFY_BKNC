@@ -27,3 +27,14 @@
 |9월 3일(금)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18OR16IuUCFAZN" target="_blank">SWEA 1260</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18OR16IuUCFAZN" target="_blank">화학물질2</a>|
 
 </details>
+
+<details markdown="1">
+<summary><strong>9월 2주차 알고리즘</strong></summary>
+<br/>
+
+|날짜|문제 번호|문제 이름|
+|:---:|:---:|:---:|
+|9월 6일(월)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH" target="_blank">SWEA 4008</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH" target="_blank">숫자 만들기</a>|    
+|9월 6일(월)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq" target="_blank">SWEA 1952</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq" target="_blank">수영장</a>|
+
+</details>

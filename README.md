@@ -36,5 +36,7 @@
 |:---:|:---:|:---:|
 |9월 6일(월)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH" target="_blank">SWEA 4008</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH" target="_blank">숫자 만들기</a>|    
 |9월 6일(월)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq" target="_blank">SWEA 1952</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq" target="_blank">수영장</a>|
+|9월 7일(화)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH" target="_blank">SWEA 4012</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH" target="_blank">요리사</a>|    
+|9월 7일(화)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu" target="_blank">SWEA 2115</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu" target="_blank">벌꿀채취</a>|
 
 </details>

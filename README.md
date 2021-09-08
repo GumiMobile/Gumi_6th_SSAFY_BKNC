@@ -38,5 +38,7 @@
 |9월 6일(월)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq" target="_blank">SWEA 1952</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq" target="_blank">수영장</a>|
 |9월 7일(화)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH" target="_blank">SWEA 4012</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH" target="_blank">요리사</a>|    
 |9월 7일(화)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu" target="_blank">SWEA 2115</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu" target="_blank">벌꿀채취</a>|
+|9월 8일(수)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWngfZVa9XwDFAQU" target="_blank">SWEA 7465</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWngfZVa9XwDFAQU" target="_blank">창용 마을 무리의 개수</a>|    
+|9월 8일(수)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq" target="_blank">SWEA 1953</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq" target="_blank">탈주범 검거</a>|
 
 </details>

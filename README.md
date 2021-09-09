@@ -40,5 +40,7 @@
 |9월 7일(화)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu" target="_blank">SWEA 2115</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu" target="_blank">벌꿀채취</a>|
 |9월 8일(수)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWngfZVa9XwDFAQU" target="_blank">SWEA 7465</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWngfZVa9XwDFAQU" target="_blank">창용 마을 무리의 개수</a>|    
 |9월 8일(수)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq" target="_blank">SWEA 1953</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq" target="_blank">탈주범 검거</a>|
+|9월 9일(목)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf" target="_blank">SWEA 1767</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf" target="_blank">프로세서 연결하기</a>|    
+|9월 9일(목)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu" target="_blank">SWEA 2117</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu" target="_blank">홈 방범 서비스</a>|
 
 </details>

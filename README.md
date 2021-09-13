@@ -44,3 +44,13 @@
 |9월 9일(목)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu" target="_blank">SWEA 2117</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu" target="_blank">홈 방범 서비스</a>|
 
 </details>
+
+<details markdown="1">
+<summary><strong>9월 3주차 알고리즘</strong></summary>
+<br/>
+
+|날짜|문제 번호|문제 이름|
+|:---:|:---:|:---:|
+|9월 13일(월)|<a href="https://www.acmicpc.net/problem/1780" target="_blank">BOJ 1780</a>|<a href="https://www.acmicpc.net/problem/1780" target="_blank">종이의 개수</a>|    
+
+</details>

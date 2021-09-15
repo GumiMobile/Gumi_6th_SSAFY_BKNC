@@ -52,5 +52,6 @@
 |날짜|문제 번호|문제 이름|
 |:---:|:---:|:---:|
 |9월 13일(월)|<a href="https://www.acmicpc.net/problem/1780" target="_blank">BOJ 1780</a>|<a href="https://www.acmicpc.net/problem/1780" target="_blank">종이의 개수</a>|    
-
+|9월 14일(화)|<a href="https://www.acmicpc.net/problem/2447" target="_blank">BOJ 2447</a>|<a href="https://www.acmicpc.net/problem/2447" target="_blank">별 찍기 - 10</a>| 
+|9월 15일(수)|<a href="https://www.acmicpc.net/problem/1992" target="_blank">BOJ 1992</a>|<a href="https://www.acmicpc.net/problem/1992" target="_blank">쿼드트리</a>|   
 </details>

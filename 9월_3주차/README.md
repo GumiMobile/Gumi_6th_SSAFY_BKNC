@@ -4,4 +4,8 @@
 
 [[BOJ 2447 별 찍기 - 10]](https://www.acmicpc.net/problem/2447)   
 
-[[BOJ 1992 쿼드트리]](https://www.acmicpc.net/problem/1992)   
+[[BOJ 1992 쿼드트리]](https://www.acmicpc.net/problem/1992)
+
+[[BOJ 18222 투에-모스 문자열]](https://www.acmicpc.net/problem/18222)
+
+[[BOJ 2740 행렬 곱셈]](https://www.acmicpc.net/problem/2740)

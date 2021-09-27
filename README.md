@@ -67,3 +67,12 @@
 |9월 23일(목)|<a href="https://www.acmicpc.net/problem/11049" target="_blank">BOJ 11049</a>|<a href="https://www.acmicpc.net/problem/11049" target="_blank">행렬 곱셈 순서</a>|
 |9월 24일(금)|<a href="https://www.acmicpc.net/problem/1463" target="_blank">BOJ 1463</a>|<a href="https://www.acmicpc.net/problem/1463" target="_blank">1로 만들기</a>|
 </details>
+
+<details markdown="1">
+<summary><strong>9월 5주차 알고리즘</strong></summary>
+<br/>
+
+|날짜|문제 번호|문제 이름|
+|:---:|:---:|:---:|
+|9월 27일(월)|<a href="https://www.acmicpc.net/problem/2110" target="_blank">BOJ 2110</a>|<a href="https://www.acmicpc.net/problem/2110" target="_blank">공유기 설치</a>|
+</details>

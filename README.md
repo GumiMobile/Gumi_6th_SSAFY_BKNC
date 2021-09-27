@@ -1,4 +1,5 @@
 <h1 align="center">💻 SSAFY 6기 구미 6반  BKNC 💻</h1>
+<p align="center"><b>B</b>reak<b> K</b>akao <b>N</b>aver <b>C</b>odingTest</p>
 
 ## 👋 팀원
 

@@ -76,4 +76,5 @@
 |날짜|문제 번호|문제 이름|
 |:---:|:---:|:---:|
 |9월 27일(월)|<a href="https://www.acmicpc.net/problem/2110" target="_blank">BOJ 2110</a>|<a href="https://www.acmicpc.net/problem/2110" target="_blank">공유기 설치</a>|
+|9월 28일(화)|<a href="https://www.acmicpc.net/problem/10815" target="_blank">BOJ 10815</a>|<a href="https://www.acmicpc.net/problem/10815" target="_blank">숫자 카드</a>|
 </details>

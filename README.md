@@ -77,4 +77,5 @@
 |:---:|:---:|:---:|
 |9월 27일(월)|<a href="https://www.acmicpc.net/problem/2110" target="_blank">BOJ 2110</a>|<a href="https://www.acmicpc.net/problem/2110" target="_blank">공유기 설치</a>|
 |9월 28일(화)|<a href="https://www.acmicpc.net/problem/10815" target="_blank">BOJ 10815</a>|<a href="https://www.acmicpc.net/problem/10815" target="_blank">숫자 카드</a>|
+|9월 29일(수)|<a href="https://www.acmicpc.net/problem/1654" target="_blank">BOJ 1654</a>|<a href="https://www.acmicpc.net/problem/1654" target="_blank">랜선 자르기</a>|
 </details>

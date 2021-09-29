@@ -5,3 +5,7 @@
 ## 9월 28일(화)
 
 [[BOJ 10815 숫자 카드]](https://www.acmicpc.net/problem/10815)   
+
+## 9월 29일(수)
+
+[[BOJ 1654 랜선 자르기]](https://www.acmicpc.net/problem/1654)

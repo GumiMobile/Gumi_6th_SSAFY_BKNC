@@ -9,3 +9,7 @@
 ## 9월 29일(수)
 
 [[BOJ 1654 랜선 자르기]](https://www.acmicpc.net/problem/1654)
+
+## 9월 30일(목)
+
+[[BOJ 12015 가장 긴 증가하는 부분 수열 2]](https://www.acmicpc.net/problem/12015)

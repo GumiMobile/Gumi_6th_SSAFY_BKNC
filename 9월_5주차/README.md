@@ -13,3 +13,7 @@
 ## 9월 30일(목)
 
 [[BOJ 12015 가장 긴 증가하는 부분 수열 2]](https://www.acmicpc.net/problem/12015)
+
+## 10월 1일(금)
+
+[[BOJ 1764 듣보잡]](https://www.acmicpc.net/problem/1764)

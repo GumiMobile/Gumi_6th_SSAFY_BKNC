@@ -79,5 +79,16 @@
 |9월 28일(화)|<a href="https://www.acmicpc.net/problem/10815" target="_blank">BOJ 10815</a>|<a href="https://www.acmicpc.net/problem/10815" target="_blank">숫자 카드</a>|
 |9월 29일(수)|<a href="https://www.acmicpc.net/problem/1654" target="_blank">BOJ 1654</a>|<a href="https://www.acmicpc.net/problem/1654" target="_blank">랜선 자르기</a>|
 |9월 30일(목)|<a href="https://www.acmicpc.net/problem/12015" target="_blank">BOJ 12015</a>|<a href="https://www.acmicpc.net/problem/12015" target="_blank">가장 긴 증가하는 부분 수열 2</a>|
+|10월 1일(금)|<a href="https://www.acmicpc.net/problem/1764" target="_blank">BOJ 1764</a>|<a href="https://www.acmicpc.net/problem/1764" target="_blank">듣보잡</a>|
+</details>
+
+<details markdown="1">
+<summary><strong>10월 1주차 알고리즘</strong></summary>
+<br/>
+
+|날짜|문제 번호|문제 이름|
+|:---:|:---:|:---:|
+|10월 5일(화)|<a href="https://www.acmicpc.net/problem/1446" target="_blank">BOJ 1446</a>|<a href="https://www.acmicpc.net/problem/1446" target="_blank">지름길</a>|
+
 
 </details>

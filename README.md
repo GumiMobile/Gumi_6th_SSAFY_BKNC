@@ -89,6 +89,7 @@
 |날짜|문제 번호|문제 이름|
 |:---:|:---:|:---:|
 |10월 5일(화)|<a href="https://www.acmicpc.net/problem/1446" target="_blank">BOJ 1446</a>|<a href="https://www.acmicpc.net/problem/1446" target="_blank">지름길</a>|
+|10월 6일(수)|<a href="https://www.acmicpc.net/problem/1753" target="_blank">BOJ 1753</a>|<a href="https://www.acmicpc.net/problem/1753" target="_blank">최단경로</a>|
 
 
 </details>

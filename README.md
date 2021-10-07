@@ -90,6 +90,5 @@
 |:---:|:---:|:---:|
 |10월 5일(화)|<a href="https://www.acmicpc.net/problem/1446" target="_blank">BOJ 1446</a>|<a href="https://www.acmicpc.net/problem/1446" target="_blank">지름길</a>|
 |10월 6일(수)|<a href="https://www.acmicpc.net/problem/1753" target="_blank">BOJ 1753</a>|<a href="https://www.acmicpc.net/problem/1753" target="_blank">최단경로</a>|
-
-
+|10월 7일(목)|<a href="https://www.acmicpc.net/problem/18352" target="_blank">BOJ 18352</a>|<a href="https://www.acmicpc.net/problem/18352" target="_blank">특정 거리의 도시 찾기</a>|
 </details>

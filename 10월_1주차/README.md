@@ -9,3 +9,8 @@
 ## 10월 7일(목)
 
 [[BOJ 18352 특정 거리의 도시 찾기]](https://www.acmicpc.net/problem/18352)
+
+
+## 10월 8일(금)
+
+[[BOJ 1504 특정한 최단 경로]](https://www.acmicpc.net/problem/1504)

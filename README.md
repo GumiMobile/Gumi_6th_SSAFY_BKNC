@@ -93,3 +93,12 @@
 |10월 7일(목)|<a href="https://www.acmicpc.net/problem/18352" target="_blank">BOJ 18352</a>|<a href="https://www.acmicpc.net/problem/18352" target="_blank">특정 거리의 도시 찾기</a>|
 |10월 8일(금)|<a href="https://www.acmicpc.net/problem/1504" target="_blank">BOJ 1504</a>|<a href="https://www.acmicpc.net/problem/1504" target="_blank">특정한 최단 경로</a>|
 </details>
+
+<details markdown="1">
+<summary><strong>10월 2주차 알고리즘</strong></summary>
+<br/>
+
+|날짜|문제 번호|문제 이름|
+|:---:|:---:|:---:|
+|10월 12일(화)|<a href="https://www.acmicpc.net/problem/11723" target="_blank">BOJ 11723</a>|<a href="https://www.acmicpc.net/problem/11723" target="_blank">집합</a>|
+

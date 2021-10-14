@@ -4,4 +4,4 @@
 
 ## 10월 13일(수)
 
-[[SWEA 4311 집합]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWL2vlPKMlQDFAUE)   
+[[SWEA 4311 오래된 스마트폰]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWL2vlPKMlQDFAUE)   

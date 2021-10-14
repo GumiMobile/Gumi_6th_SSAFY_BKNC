@@ -101,4 +101,5 @@
 |날짜|문제 번호|문제 이름|
 |:---:|:---:|:---:|
 |10월 12일(화)|<a href="https://www.acmicpc.net/problem/11723" target="_blank">BOJ 11723</a>|<a href="https://www.acmicpc.net/problem/11723" target="_blank">집합</a>|
-
+|10월 13일(수)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWL2vlPKMlQDFAUE" target="_blank">SWEA 4311</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWL2vlPKMlQDFAUE" target="_blank">오래된 스마트폰</a>|
+</details>

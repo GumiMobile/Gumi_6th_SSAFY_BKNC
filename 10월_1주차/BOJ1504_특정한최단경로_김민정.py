@@ -40,5 +40,6 @@ starting = dijkstra(graph, 1)
 v1_path = dijkstra(graph, v1)
 v2_path = dijkstra(graph, v2)
 
+# 1-> v1 -> v2 -> N or 1 -> v2 -> v1 -> N
 res = min(starting[v1] + v1_path[v2] + v2_path[N], starting[v2] + v2_path[v1] + v1_path[N])
 print(res if res < INF else -1)

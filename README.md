@@ -104,3 +104,13 @@
 |10월 13일(수)|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWL2vlPKMlQDFAUE" target="_blank">SWEA 4311</a>|<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWL2vlPKMlQDFAUE" target="_blank">오래된 스마트폰</a>|
 |10월 14일(목)|<a href="https://www.acmicpc.net/problem/1182" target="_blank">BOJ 1182</a>|<a href="https://www.acmicpc.net/problem/1182" target="_blank">부분수열의 합</a>|
 </details>
+
+<details markdown="1">
+<summary><strong>10월 3주차 알고리즘</strong></summary>
+<br/>
+
+|날짜|문제 번호|문제 이름|
+|:---:|:---:|:---:|
+|10월 18일(월)|<a href="https://www.acmicpc.net/problem/2003" target="_blank">BOJ 2003</a>|<a href="https://www.acmicpc.net/problem/2003" target="_blank">수들의 합 2</a>|
+
+</details>

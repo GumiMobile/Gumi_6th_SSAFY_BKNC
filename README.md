@@ -112,5 +112,6 @@
 |날짜|문제 번호|문제 이름|
 |:---:|:---:|:---:|
 |10월 18일(월)|<a href="https://www.acmicpc.net/problem/2003" target="_blank">BOJ 2003</a>|<a href="https://www.acmicpc.net/problem/2003" target="_blank">수들의 합 2</a>|
+|10월 19일(화)|<a href="https://www.acmicpc.net/problem/3273" target="_blank">BOJ 3273</a>|<a href="https://www.acmicpc.net/problem/3273" target="_blank">두 수의 합</a>|
 
 </details>

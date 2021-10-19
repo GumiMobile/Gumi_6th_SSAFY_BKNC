@@ -1,5 +1,3 @@
-package com.js.pekah.algorithms.d1018;
-
 import java.util.Scanner;
 
 public class BOJ2003_수들의합2_나요셉 {

@@ -10,3 +10,7 @@
 
 [[BOJ 2559 수열]](https://www.acmicpc.net/problem/2559)   
 
+## 10월 21일(목)
+
+[[BOJ 2531 회전 초밥]](https://www.acmicpc.net/problem/2531)  
+

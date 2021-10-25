@@ -117,3 +117,15 @@
 |10월 21일(목)|<a href="https://www.acmicpc.net/problem/2531" target="_blank">BOJ 2531</a>|<a href="https://www.acmicpc.net/problem/2531" target="_blank">회전 초밥</a>|
 
 </details>
+
+
+<details markdown="1">
+<summary><strong>10월 4주차 알고리즘</strong></summary>
+<br/>
+
+|날짜|문제 번호|문제 이름|
+|:---:|:---:|:---:|
+|10월 25일(월)|<a href="https://www.acmicpc.net/problem/11286" target="_blank">BOJ 11286</a>|<a href="https://www.acmicpc.net/problem/11286" target="_blank">절댓값 힙</a>|
+
+
+</details>

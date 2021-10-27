@@ -127,6 +127,7 @@
 |:---:|:---:|:---:|
 |10월 25일(월)|<a href="https://www.acmicpc.net/problem/11286" target="_blank">BOJ 11286</a>|<a href="https://www.acmicpc.net/problem/11286" target="_blank">절댓값 힙</a>|
 |10월 26일(화)|<a href="https://www.acmicpc.net/problem/15903" target="_blank">BOJ 15903</a>|<a href="https://www.acmicpc.net/problem/15903" target="_blank">카드 합체 놀이</a>|
+|10월 27일(수)|<a href="https://www.acmicpc.net/problem/1374" target="_blank">BOJ 1374</a>|<a href="https://www.acmicpc.net/problem/1374" target="_blank">강의실</a>|
 
 
 </details>

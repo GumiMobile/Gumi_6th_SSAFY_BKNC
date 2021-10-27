@@ -6,6 +6,9 @@
 
 [[BOJ 15903 카드 합체 놀이]](https://www.acmicpc.net/problem/15903)   
 
+## 10월 27일(수)
+
+[[BOJ 1374 강의실]](https://www.acmicpc.net/problem/1374)   
 
 
 

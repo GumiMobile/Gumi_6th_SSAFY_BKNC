@@ -10,6 +10,10 @@
 
 [[BOJ 1374 강의실]](https://www.acmicpc.net/problem/1374)   
 
+## 10월 28일(목)
+
+[[BOJ 1655 가운데를 말해요]](https://www.acmicpc.net/problem/1655)   
+
 
 
 

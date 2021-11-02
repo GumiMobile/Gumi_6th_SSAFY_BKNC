@@ -3,10 +3,47 @@
 
 ## 👋 팀원
 
-- 백동열 - [MAYDAY](https://github.com/micro155)
-- 김민정 - [Minjeong Kim](https://github.com/Tenykim1109)
-- 나요셉 - [JosephNaa](https://github.com/JosephNaa)
-- 최현정 - [hyunjung-choi](https://github.com/hyunjung-choi)
+<table>
+    <tr height="170px">
+        <td align="center" width="170px">
+            <a href="https://github.com/micro155"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/69238456?v=4"/></a>
+            <br />
+            <strong>백동열</strong>
+        </td>
+        <td align="center" width="170px">
+            <a href="https://github.com/Tenykim1109"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/48265915?v=4"/></a>
+            <br />
+            <strong>김민정</strong>
+        </td>
+        <td align="center" width="170px">
+            <a href="https://github.com/JosephNaa"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/17241871?v=4"/></a>
+            <br />
+            <strong>나요셉</strong>
+        </td>
+        <td align="center" width="170px">
+            <a href="https://github.com/hyunjung-choi"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/69616347?v=4"/></a>
+            <br />
+            <strong>최현정</strong>
+        </td>
+    </tr>
+    <tr height="50px">
+        <td align="center">
+            <a href="https://github.com/micro155">:octocat: MAYDAY</a>
+            <br />
+        </td>
+        <td align="center">
+            <a href="https://github.com/Tenykim1109">:octocat: Minjeong Kim</a>
+            <br />
+        <td align="center">
+            <a href="https://github.com/JosephNaa">:octocat: JosephNaa</a>
+            <br />
+        </td>
+        <td align="center">
+            <a href="https://github.com/hyunjung-choi">:octocat: hyunjung-choi</a>
+            <br />
+        </td>
+    </tr>
+</table>
 
 ## 📚 스터디 일지
 

@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-// 20:21 ~ 
+// 20:21 ~ 21:07
 
 public class BOJ11725_트리의부모찾기_나요셉 {
 	static int N;

@@ -178,7 +178,8 @@
 |날짜|문제 번호|문제 이름|
 |:---:|:---:|:---:|
 |12월 13일(월)|<a href="https://www.acmicpc.net/problem/2644" target="_blank">BOJ 2644</a>|<a href="https://www.acmicpc.net/problem/2644" target="_blank">촌수 계산</a>|
-|12월 13일(월)|<a href="https://www.acmicpc.net/problem/11725" target="_blank">BOJ 11725</a>|<a href="https://www.acmicpc.net/problem/11725" target="_blank">트리의 부모 </a>|
-
+|12월 13일(월)|<a href="https://www.acmicpc.net/problem/11725" target="_blank">BOJ 11725</a>|<a href="https://www.acmicpc.net/problem/11725" target="_blank">트리의 부모 찾기</a>|
+|12월 14일(화)|<a href="https://www.acmicpc.net/problem/1012" target="_blank">BOJ 1012</a>|<a href="https://www.acmicpc.net/problem/1012" target="_blank">유기농 배추</a>|
+|12월 14일(화)|<a href="https://www.acmicpc.net/problem/4963" target="_blank">BOJ 4963</a>|<a href="https://www.acmicpc.net/problem/4963" target="_blank">섬의 개수</a>|
 
 </details>

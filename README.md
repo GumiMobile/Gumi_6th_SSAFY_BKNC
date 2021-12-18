@@ -181,5 +181,7 @@
 |12월 13일(월)|<a href="https://www.acmicpc.net/problem/11725" target="_blank">BOJ 11725</a>|<a href="https://www.acmicpc.net/problem/11725" target="_blank">트리의 부모 찾기</a>|
 |12월 14일(화)|<a href="https://www.acmicpc.net/problem/1012" target="_blank">BOJ 1012</a>|<a href="https://www.acmicpc.net/problem/1012" target="_blank">유기농 배추</a>|
 |12월 14일(화)|<a href="https://www.acmicpc.net/problem/4963" target="_blank">BOJ 4963</a>|<a href="https://www.acmicpc.net/problem/4963" target="_blank">섬의 개수</a>|
+|12월 15일(수)|<a href="https://www.acmicpc.net/problem/11724" target="_blank">BOJ 11724</a>|<a href="https://www.acmicpc.net/problem/11724" target="_blank">연결 요소의 개수</a>|
+|12월 15일(수)|<a href="https://www.acmicpc.net/problem/1325" target="_blank">BOJ 1325</a>|<a href="https://www.acmicpc.net/problem/1325" target="_blank">효율적인 해킹</a>|
 
 </details>

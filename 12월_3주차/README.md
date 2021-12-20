@@ -4,9 +4,13 @@
 
 [[BOJ 11725 트리의 부모 찾기]](https://www.acmicpc.net/problem/11725)   
 
+## 12월 14일(화)
+
 [[BOJ 1012 유기농 배추]](https://www.acmicpc.net/problem/1012)   
 
 [[BOJ 4963 섬의 개수]](https://www.acmicpc.net/problem/4963)   
+
+## 12월 15일(수)
 
 [[BOJ 11724 연결 요소의 개수]](https://www.acmicpc.net/problem/11724)   
 

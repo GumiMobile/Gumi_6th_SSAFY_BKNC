@@ -185,3 +185,16 @@
 |12월 15일(수)|<a href="https://www.acmicpc.net/problem/1325" target="_blank">BOJ 1325</a>|<a href="https://www.acmicpc.net/problem/1325" target="_blank">효율적인 해킹</a>|
 
 </details>
+
+<details markdown="1">
+<summary><strong>12월 4주차 알고리즘</strong></summary>
+<br/>
+
+|날짜|문제 번호|문제 이름|
+|:---:|:---:|:---:|
+|12월 20일(월)|<a href="https://www.acmicpc.net/problem/7576" target="_blank">BOJ 7576</a>|<a href="https://www.acmicpc.net/problem/7576" target="_blank">토마토</a>|
+|12월 20일(월)|<a href="https://www.acmicpc.net/problem/2667" target="_blank">BOJ 2667</a>|<a href="https://www.acmicpc.net/problem/2667" target="_blank">단지번호붙이기</a>|
+|12월 21일(화)|<a href="https://www.acmicpc.net/problem/1697" target="_blank">BOJ 1697</a>|<a href="https://www.acmicpc.net/problem/1697" target="_blank">숨바꼭질</a>|
+|12월 21일(화)|<a href="https://www.acmicpc.net/problem/1926" target="_blank">BOJ 1926</a>|<a href="https://www.acmicpc.net/problem/1926" target="_blank">그림</a>|
+
+</details>

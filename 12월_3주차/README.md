@@ -15,3 +15,7 @@
 [[BOJ 11724 연결 요소의 개수]](https://www.acmicpc.net/problem/11724)   
 
 [[BOJ 1325 효율적인 해킹]](https://www.acmicpc.net/problem/1325)   
+
+## 12월 17일(금)
+
+[[BOJ 1987 알파벳]](https://www.acmicpc.net/problem/1987)   

@@ -183,6 +183,7 @@
 |12월 14일(화)|<a href="https://www.acmicpc.net/problem/4963" target="_blank">BOJ 4963</a>|<a href="https://www.acmicpc.net/problem/4963" target="_blank">섬의 개수</a>|
 |12월 15일(수)|<a href="https://www.acmicpc.net/problem/11724" target="_blank">BOJ 11724</a>|<a href="https://www.acmicpc.net/problem/11724" target="_blank">연결 요소의 개수</a>|
 |12월 15일(수)|<a href="https://www.acmicpc.net/problem/1325" target="_blank">BOJ 1325</a>|<a href="https://www.acmicpc.net/problem/1325" target="_blank">효율적인 해킹</a>|
+|12월 17일(금)|<a href="https://www.acmicpc.net/problem/1987" target="_blank">BOJ 1987</a>|<a href="https://www.acmicpc.net/problem/1987" target="_blank">알파벳</a>|
 
 </details>
 

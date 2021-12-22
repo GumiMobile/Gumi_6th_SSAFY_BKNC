@@ -197,5 +197,6 @@
 |12월 20일(월)|<a href="https://www.acmicpc.net/problem/2667" target="_blank">BOJ 2667</a>|<a href="https://www.acmicpc.net/problem/2667" target="_blank">단지번호붙이기</a>|
 |12월 21일(화)|<a href="https://www.acmicpc.net/problem/1697" target="_blank">BOJ 1697</a>|<a href="https://www.acmicpc.net/problem/1697" target="_blank">숨바꼭질</a>|
 |12월 21일(화)|<a href="https://www.acmicpc.net/problem/1926" target="_blank">BOJ 1926</a>|<a href="https://www.acmicpc.net/problem/1926" target="_blank">그림</a>|
+|12월 22일(수)|<a href="https://www.acmicpc.net/problem/14502" target="_blank">BOJ 1926</a>|<a href="https://www.acmicpc.net/problem/14502" target="_blank"></a>|
 
 </details>

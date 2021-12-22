@@ -9,3 +9,7 @@
 [[BOJ 1697 숨바꼭질]](https://www.acmicpc.net/problem/1697)   
 
 [[BOJ 1926 그림]](https://www.acmicpc.net/problem/1926)  
+
+## 12월 22일(수)
+
+[[BOJ 14502 연구소]](https://www.acmicpc.net/problem/14502)  

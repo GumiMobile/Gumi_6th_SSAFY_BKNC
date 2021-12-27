@@ -200,3 +200,14 @@
 |12월 22일(수)|<a href="https://www.acmicpc.net/problem/14502" target="_blank">BOJ 14502</a>|<a href="https://www.acmicpc.net/problem/14502" target="_blank">연구소</a>|
 
 </details>
+
+<details markdown="1">
+<summary><strong>12월 5주차 알고리즘</strong></summary>
+<br/>
+
+|날짜|문제 번호|문제 이름|
+|:---:|:---:|:---:|
+|12월 27일(월)|<a href="https://www.acmicpc.net/problem/2579" target="_blank">BOJ 2579</a>|<a href="https://www.acmicpc.net/problem/2579" target="_blank">계단오르기</a>|
+|12월 27일(월)|<a href="https://www.acmicpc.net/problem/11726" target="_blank">BOJ 11726</a>|<a href="https://www.acmicpc.net/problem/11726" target="_blank">2xn 타일링</a>|
+
+</details>

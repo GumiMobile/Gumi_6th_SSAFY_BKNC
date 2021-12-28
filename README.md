@@ -209,5 +209,7 @@
 |:---:|:---:|:---:|
 |12월 27일(월)|<a href="https://www.acmicpc.net/problem/2579" target="_blank">BOJ 2579</a>|<a href="https://www.acmicpc.net/problem/2579" target="_blank">계단오르기</a>|
 |12월 27일(월)|<a href="https://www.acmicpc.net/problem/11726" target="_blank">BOJ 11726</a>|<a href="https://www.acmicpc.net/problem/11726" target="_blank">2xn 타일링</a>|
+|12월 28일(화)|<a href="https://www.acmicpc.net/problem/1932" target="_blank">BOJ 1932</a>|<a href="https://www.acmicpc.net/problem/1932" target="_blank">정수 삼각형</a>|
+|12월 28일(화)|<a href="https://www.acmicpc.net/problem/11727" target="_blank">BOJ 11727</a>|<a href="https://www.acmicpc.net/problem/11727" target="_blank">2xn 타일링 2</a>|
 
 </details>

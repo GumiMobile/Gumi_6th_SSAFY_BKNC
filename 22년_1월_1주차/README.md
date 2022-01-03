@@ -1,4 +1,4 @@
-## 1월 03일(월)
+## 1월 3일(월)
 
 [[BOJ 1475 방 번호]](https://www.acmicpc.net/problem/1475)   
 

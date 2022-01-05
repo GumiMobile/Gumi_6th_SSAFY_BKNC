@@ -9,3 +9,9 @@
 [[BOJ 1476 날짜 계산]](https://www.acmicpc.net/problem/1476)   
 
 [[BOJ 2108 통계학]](https://www.acmicpc.net/problem/2108)   
+
+## 1월 5일(수)
+
+[[BOJ 1748 수 이어 쓰기 1]](https://www.acmicpc.net/problem/1748)   
+
+[[BOJ 10773 제로]](https://www.acmicpc.net/problem/10773)   

@@ -3,3 +3,9 @@
 [[BOJ 1475 방 번호]](https://www.acmicpc.net/problem/1475)   
 
 [[BOJ 2980 도로와 신호등]](https://www.acmicpc.net/problem/2980)   
+
+## 1월 4일(화)
+
+[[BOJ 1476 날짜 계산]](https://www.acmicpc.net/problem/1476)   
+
+[[BOJ 2108 통계학]](https://www.acmicpc.net/problem/2108)   

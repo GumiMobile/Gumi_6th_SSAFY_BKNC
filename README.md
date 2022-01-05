@@ -227,6 +227,6 @@
 |1월 3일(월)|<a href="https://www.acmicpc.net/problem/1475" target="_blank">BOJ 1475</a>|<a href="https://www.acmicpc.net/problem/1475" target="_blank">방 번호</a>|
 |1월 3일(월)|<a href="https://www.acmicpc.net/problem/2980" target="_blank">BOJ 2980</a>|<a href="https://www.acmicpc.net/problem/2980" target="_blank">도로와 신호등</a>|
 |1월 4일(화)|<a href="https://www.acmicpc.net/problem/1476" target="_blank">BOJ 1476</a>|<a href="https://www.acmicpc.net/problem/1476" target="_blank">날짜 계산</a>|
-|1월 4일(화)|<a href="https://www.acmicpc.net/problem/2108" target="_blank">BOJ 2108</a>|<a href="https://www.acmicpc.net/problem/2108" target="_blank"></a>|
+|1월 4일(화)|<a href="https://www.acmicpc.net/problem/2108" target="_blank">BOJ 2108</a>|<a href="https://www.acmicpc.net/problem/2108" target="_blank">통계학</a>|
 
 </details>

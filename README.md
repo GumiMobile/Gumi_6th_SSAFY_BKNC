@@ -230,5 +230,7 @@
 |1월 4일(화)|<a href="https://www.acmicpc.net/problem/2108" target="_blank">BOJ 2108</a>|<a href="https://www.acmicpc.net/problem/2108" target="_blank">통계학</a>|
 |1월 5일(수)|<a href="https://www.acmicpc.net/problem/1748" target="_blank">BOJ 1748</a>|<a href="https://www.acmicpc.net/problem/1748" target="_blank">수 이어 쓰기 1</a>|
 |1월 5일(수)|<a href="https://www.acmicpc.net/problem/10773" target="_blank">BOJ 10773</a>|<a href="https://www.acmicpc.net/problem/10773" target="_blank">제로</a>|
+|1월 6일(목)|<a href="https://www.acmicpc.net/problem/1966" target="_blank">BOJ 1966</a>|<a href="https://www.acmicpc.net/problem/1966" target="_blank">프린터 큐</a>|
+|1월 6일(목)|<a href="https://www.acmicpc.net/problem/2504" target="_blank">BOJ 2504</a>|<a href="https://www.acmicpc.net/problem/2504" target="_blank">괄호의 값</a>|
 
 </details>

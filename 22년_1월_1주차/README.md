@@ -15,3 +15,9 @@
 [[BOJ 1748 수 이어 쓰기 1]](https://www.acmicpc.net/problem/1748)   
 
 [[BOJ 10773 제로]](https://www.acmicpc.net/problem/10773)   
+
+## 1월 6일(목)
+
+[[BOJ 1966 프린터 큐]](https://www.acmicpc.net/problem/1966)   
+
+[[BOJ 2504 괄호의 값]](https://www.acmicpc.net/problem/2504)   

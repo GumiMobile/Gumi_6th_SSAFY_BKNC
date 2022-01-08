@@ -21,3 +21,7 @@
 [[BOJ 1966 프린터 큐]](https://www.acmicpc.net/problem/1966)   
 
 [[BOJ 2504 괄호의 값]](https://www.acmicpc.net/problem/2504)   
+
+## 1월 6일(목)
+
+[[BOJ 15686 치킨 배달]](https://www.acmicpc.net/problem/15686)   

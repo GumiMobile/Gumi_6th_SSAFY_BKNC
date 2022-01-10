@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class BOJ10773_제로 {
+public class BOJ10773_제로_나요셉 {
 	public static void main(String[] args) throws Exception {
 		Scanner sc = new Scanner(System.in);
 		

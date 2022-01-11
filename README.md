@@ -234,3 +234,15 @@
 |1월 6일(목)|<a href="https://www.acmicpc.net/problem/2504" target="_blank">BOJ 2504</a>|<a href="https://www.acmicpc.net/problem/2504" target="_blank">괄호의 값</a>|
 |1월 7일(금)|<a href="https://www.acmicpc.net/problem/15686" target="_blank">BOJ 15686</a>|<a href="https://www.acmicpc.net/problem/15686" target="_blank">치킨 배달</a>|
 </details>
+
+<details markdown="1">
+<summary><strong>1월 2주차 알고리즘</strong></summary>
+<br/>
+
+|날짜|문제 번호|문제 이름|
+|:---:|:---:|:---:|
+|1월 10일(월)|<a href="https://www.acmicpc.net/problem/1541" target="_blank">BOJ 1541</a>|<a href="https://www.acmicpc.net/problem/1541" target="_blank">잃어버린 괄호</a>|
+|1월 10일(월)|<a href="https://www.acmicpc.net/problem/1931" target="_blank">BOJ 1931</a>|<a href="https://www.acmicpc.net/problem/1931" target="_blank">회의실 배정</a>|
+|1월 11일(화)|<a href="https://www.acmicpc.net/problem/1105" target="_blank">BOJ 1105</a>|<a href="https://www.acmicpc.net/problem/1105" target="_blank">팔</a>|
+|1월 11일(화)|<a href="https://www.acmicpc.net/problem/1052" target="_blank">BOJ 1052</a>|<a href="https://www.acmicpc.net/problem/1052" target="_blank">물병</a>|
+</details>

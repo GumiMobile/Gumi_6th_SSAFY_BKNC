@@ -245,4 +245,5 @@
 |1월 10일(월)|<a href="https://www.acmicpc.net/problem/1931" target="_blank">BOJ 1931</a>|<a href="https://www.acmicpc.net/problem/1931" target="_blank">회의실 배정</a>|
 |1월 11일(화)|<a href="https://www.acmicpc.net/problem/1105" target="_blank">BOJ 1105</a>|<a href="https://www.acmicpc.net/problem/1105" target="_blank">팔</a>|
 |1월 11일(화)|<a href="https://www.acmicpc.net/problem/1052" target="_blank">BOJ 1052</a>|<a href="https://www.acmicpc.net/problem/1052" target="_blank">물병</a>|
+|1월 12일(수)|<a href="https://www.acmicpc.net/problem/1946" target="_blank">BOJ 1946</a>|<a href="https://www.acmicpc.net/problem/1946" target="_blank">신입 사원</a>|
 </details>

@@ -9,3 +9,8 @@
 [[BOJ 1105 팔]](https://www.acmicpc.net/problem/1105)   
 
 [[BOJ 1052 물병]](https://www.acmicpc.net/problem/1052)   
+
+## 1월 12일(수)
+
+[[BOJ 1946 신입 사원]](https://www.acmicpc.net/problem/1946)   
+

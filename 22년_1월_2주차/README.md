@@ -14,3 +14,7 @@
 
 [[BOJ 1946 신입 사원]](https://www.acmicpc.net/problem/1946)   
 
+## 1월 13일(목)
+
+[[BOJ 16953 A -> B]](https://www.acmicpc.net/problem/16953)   
+

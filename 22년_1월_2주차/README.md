@@ -18,3 +18,6 @@
 
 [[BOJ 16953 A -> B]](https://www.acmicpc.net/problem/16953)   
 
+## 1월 14일(금)
+
+[[BOJ 1715 카드 정렬하기]](https://www.acmicpc.net/problem/1715)   

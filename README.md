@@ -249,3 +249,13 @@
 |1월 13일(목)|<a href="https://www.acmicpc.net/problem/16953" target="_blank">BOJ 16953</a>|<a href="https://www.acmicpc.net/problem/16953" target="_blank">A -> B</a>|
 |1월 14일(금)|<a href="https://www.acmicpc.net/problem/1715" target="_blank">BOJ 1715</a>|<a href="https://www.acmicpc.net/problem/1715" target="_blank">카드 정렬하기</a>|
 </details>
+
+
+<details markdown="1">
+<summary><strong>1월 3주차 알고리즘</strong></summary>
+<br/>
+
+|날짜|문제 번호|문제 이름|
+|:---:|:---:|:---:|
+|1월 17일(월)|<a href="https://www.acmicpc.net/problem/12904" target="_blank">BOJ 12904</a>|<a href="https://www.acmicpc.net/problem/12904" target="_blank">A와 B</a>|
+</details>

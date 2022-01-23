@@ -258,4 +258,7 @@
 |날짜|문제 번호|문제 이름|
 |:---:|:---:|:---:|
 |1월 17일(월)|<a href="https://www.acmicpc.net/problem/12904" target="_blank">BOJ 12904</a>|<a href="https://www.acmicpc.net/problem/12904" target="_blank">A와 B</a>|
+|1월 18일(화)|<a href="https://www.acmicpc.net/problem/1041" target="_blank">BOJ 1041</a>|<a href="https://www.acmicpc.net/problem/1041" target="_blank">주사위</a>|
+|1월 20일(목)|<a href="https://www.acmicpc.net/problem/2212" target="_blank">BOJ 2212</a>|<a href="https://www.acmicpc.net/problem/2212" target="_blank">센서</a>|
+|1월 21일(금)|<a href="https://www.acmicpc.net/problem/1339" target="_blank">BOJ 1339</a>|<a href="https://www.acmicpc.net/problem/1339" target="_blank">단어 수학</a>|
 </details>
